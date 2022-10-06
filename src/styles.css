@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  min-width: 320px;
+}
+
+/* Fabs */
+.fab {
+  border-radius: 100%;
+  bottom: 25px;
+  font-size: 30px;
+  padding: 20px;
+  position: fixed;
+  right: 25px;
+}
+
+.fab-danger {
+  border-radius: 100%;
+  bottom: 25px;
+  font-size: 30px;
+  padding: 15px 20px;
+  position: fixed;
+  left: 25px;
+}
